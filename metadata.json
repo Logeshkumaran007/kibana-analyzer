@@ -1,0 +1,6 @@
+{
+  "name": "Kubernetes Log & Incident Analyzer",
+  "description": "An AI-powered DevOps and SRE platform to analyze Kubernetes log exports, trace Trace IDs, map request flows, diagnose cluster errors, and generate root cause analyses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
